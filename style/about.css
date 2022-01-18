@@ -1,0 +1,33 @@
+#tableh {
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#tablem {
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border: 1px solid black;
+}
+
+#Done {
+  margin-left: 90%;
+  margin-right: 10%;
+}
+
+#navbar {
+  margin-left: 60%;
+  margin-right: 0;
+}
+
+form {
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  width: 30px;
+  height: 30px;
+}
